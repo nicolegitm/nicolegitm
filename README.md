@@ -1,16 +1,15 @@
 ## Hi there 💫
-## Im a software developer working with full-stack application — but with backend focus.
-<!--
-**nicolegitm/nicolegitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Im a software developer working with full-stack application — but with backend focus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+### Tech I Use
+- **Languages:** C, C++, JavaScript, HTML
+- **Tools:** Git, VS Code, Linux
+- **Interests:** System programming, backend logic, performance optimization
+
+- ### Currently Learning
+- Data structures and algorithms
+- Memory management
+- Building full-stack projects with JS
