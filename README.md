@@ -12,6 +12,7 @@ Im a software developer working with full-stack application but with backend foc
 - Memory management
 - Building full-stack projects with JS
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nicolegitm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nicolegitm&theme=dark&hide_border=false)<br/>
