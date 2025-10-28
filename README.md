@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 💫
+## Im a software developer working with full-stack application — but with backend focus.
 <!--
 **nicolegitm/nicolegitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
