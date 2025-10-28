@@ -1,6 +1,6 @@
-## Hi there 💫
+## 💫About Me:
 
-Im a software developer working with full-stack application — but with backend focus.
+Im a software developer working with full-stack application but with backend focus. 
 
 --- 
 
