@@ -5,7 +5,8 @@ I'm a software developer with full-stack application but with backend focus.
 --- 
 
 ## 💻 Tech Stack:
-- C, C++. JavaScript, HTML
+- C, C++, JavaScript, HTML
+- SQL, Linux
 
 ## 📚 Currently Learning
 - Data structures and algorithms
