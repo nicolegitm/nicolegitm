@@ -1,17 +1,7 @@
-# 💫 About Me
 
-I'm a software developer with full-stack application but with backend focus. 
-
---- 
-
-## 💻 Tech Stack:
+## Tech Stack:
 - C, C++, JavaScript, HTML
 - SQL, Linux
-
-## 📚 Currently Learning
-- Data structures and algorithms
-- Memory management
-- Building full-stack projects with JS
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nicolegitm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
